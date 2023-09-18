@@ -1,5 +1,4 @@
 import ra_operator as RA
-import os
 import csv
 import test_operators
 
